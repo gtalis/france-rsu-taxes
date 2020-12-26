@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# france-rsu-taxes
-=======
 A Python class to compute Taxes on RSUs (Restricted Stock Units) in France
 
 Since 2005, French law governing taxes on RSUs has changed multiple times.
@@ -14,4 +11,3 @@ Les sociétés par actions peuvent, depuis 2005, distribuer des actions gratuite
 
 Le but de cette classe est calculer l'imposition des actions gratuites en
 fonction de leur dates d'attribution et de vente.
->>>>>>> df03ece... Updated README.md
